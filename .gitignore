@@ -1,0 +1,22 @@
+# Project artifacts
+*.pdf
+*.PDF
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment
+.env
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
